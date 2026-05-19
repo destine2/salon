@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Python (utility scripts)
+__pycache__/
+*.py[cod]
+.Python
+
+# Local env (if added later)
+.env
+.env.*
