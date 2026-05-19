@@ -93,17 +93,27 @@ Veloura addresses this by:
 
 ## Screenshots
 
-<!-- Add screenshots to /docs/screenshots or /img/readme/ and update paths below -->
+The screenshots below highlight the main conversion-focused sections of the Veloura Beauty Studio website.
 
-| Desktop hero | Mobile booking | Transformations |
-|:--:|:--:|:--:|
-| _Screenshot coming soon_ | _Screenshot coming soon_ | _Screenshot coming soon_ |
+### Homepage Hero
 
-| Pricing | Services | Contact / map |
-|:--:|:--:|:--:|
-| _Screenshot coming soon_ | _Screenshot coming soon_ | _Screenshot coming soon_ |
+![Homepage Hero](screenshots/homepage-hero.png)
 
-> **Tip:** Capture at 1440px and 390px widths, then add images such as `docs/screenshots/hero-desktop.png` and link them here.
+### Services & Pricing
+
+![Services and Pricing](screenshots/services-pricing.png)
+
+### Transformation Gallery
+
+![Transformation Gallery](screenshots/transformation-gallery.png)
+
+### Booking Form
+
+![Booking Form](screenshots/booking-form.png)
+
+### Mobile View
+
+![Mobile View](screenshots/mobile-view.png)
 
 ---
 
